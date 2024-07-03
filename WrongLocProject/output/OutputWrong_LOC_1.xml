@@ -1,0 +1,80 @@
+<MultiApi>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB1RTL">
+				<Item ItemID="1541940" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB2RTL"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB2DTC">
+				<Item ItemID="1790721" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB1DTC"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB2DTC">
+				<Item ItemID="6707998" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB1DTC"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB2DTC">
+				<Item ItemID="6404445" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB1DTC"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB2DTC">
+				<Item ItemID="5664788" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB2DTC"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+	<API Name="updateFutureInventory">
+		<Input>
+			<ShipNode RemoveAllPreviousInformation="N" ShipNode="OB2DTC">
+				<Item ItemID="7268222" OrganizationCode="WS"
+					UnitOfMeasure="EACH">
+					<Remove>
+						<SupplyDetails SupplyReference="OB1DTC"
+							SupplyReferenceType="FromWH" SupplyType="TRANSFER_RESERVE.ex"></SupplyDetails>
+					</Remove>
+				</Item>
+			</ShipNode>
+		</Input>
+	</API>
+</MultiApi>
