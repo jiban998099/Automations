@@ -1,0 +1,81 @@
+Error occurred while modifying cache:
+Error Message: <?xml version="1.0" encoding="UTF-8"?>
+<Errors>
+    <Error ErrorCode="javax.net.ssl.SSLException"
+        ErrorDescription="javax.net.ssl.SSLException" ErrorRelatedMoreInfo="">
+        <Attribute Name="ErrorCode" Value="javax.net.ssl.SSLException"/>
+        <Attribute Name="ErrorDescription" Value="javax.net.ssl.SSLException"/>
+        <Error ErrorCode="javax.net.ssl.SSLException"
+            ErrorDescription="" ErrorRelatedMoreInfo="Couldn't kickstart handshaking">
+            <Stack>javax.net.ssl.SSLException: Couldn't kickstart handshaking&#xd;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)&#xd;
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)&#xd;
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)&#xd;
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1952)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1947)&#xd;
+	at java.security.AccessController.doPrivileged(Native Method)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1946)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1516)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1500)&#xd;
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:480)&#xd;
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:352)&#xd;
+	at com.yantra.interop.services.httpclient.HttpClientBase.executePost(HttpClientBase.java:116)&#xd;
+	at com.yantra.interop.client.InteropHttpsClient.invoke(InteropHttpsClient.java:143)&#xd;
+	at com.yantra.interop.client.InteropHttpsClient.invoke(InteropHttpsClient.java:104)&#xd;
+	at com.yantra.interop.client.ClientAPICallHandler.invoke(ClientAPICallHandler.java:77)&#xd;
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source)&#xd;
+	at com.main.ModifyCacheTrigger.modifyCacheTrigger(ModifyCacheTrigger.java:93)&#xd;
+	at com.main.ModifyCacheTrigger.triggerModifyCache(ModifyCacheTrigger.java:54)&#xd;
+	at com.main.ModifyCacheTrigger.main(ModifyCacheTrigger.java:44)&#xd;
+Caused by: javax.net.ssl.SSLException: Couldn't kickstart handshaking&#xd;
+	at sun.security.ssl.Alert.createSSLException(Alert.java:127)&#xd;
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:331)&#xd;
+	at sun.security.ssl.TransportContext.fatal(TransportContext.java:274)&#xd;
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:443)&#xd;
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)&#xd;
+	at sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:850)&#xd;
+	at sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:678)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1595)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1500)&#xd;
+	at sun.net.www.protocol.http.HttpURLConnection.getHeaderField(HttpURLConnection.java:3067)&#xd;
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getHeaderField(HttpsURLConnectionImpl.java:305)&#xd;
+	at com.yantra.interop.client.InteropClientHelper.readCookiesFromResponse(InteropClientHelper.java:24)&#xd;
+	at com.yantra.interop.client.InteropHttpsClient.readCookiesFromResponse(InteropHttpsClient.java:245)&#xd;
+	at com.yantra.interop.services.httpclient.HttpClientBase.executePost(HttpClientBase.java:112)&#xd;
+	... 7 more&#xd;
+	Suppressed: java.net.SocketException: Connection reset by peer: socket write error&#xd;
+		at java.net.SocketOutputStream.socketWrite0(Native Method)&#xd;
+		at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)&#xd;
+		at java.net.SocketOutputStream.write(SocketOutputStream.java:155)&#xd;
+		at sun.security.ssl.SSLSocketOutputRecord.encodeAlert(SSLSocketOutputRecord.java:81)&#xd;
+		at sun.security.ssl.TransportContext.fatal(TransportContext.java:362)&#xd;
+		... 19 more&#xd;
+Caused by: java.net.SocketException: Connection reset by peer: socket write error&#xd;
+	at java.net.SocketOutputStream.socketWrite0(Native Method)&#xd;
+	at java.net.SocketOutputStream.socketWrite(SocketOutputStream.java:111)&#xd;
+	at java.net.SocketOutputStream.write(SocketOutputStream.java:155)&#xd;
+	at sun.security.ssl.SSLSocketOutputRecord.flush(SSLSocketOutputRecord.java:251)&#xd;
+	at sun.security.ssl.HandshakeOutStream.flush(HandshakeOutStream.java:89)&#xd;
+	at sun.security.ssl.ClientHello$ClientHelloKickstartProducer.produce(ClientHello.java:569)&#xd;
+	at sun.security.ssl.SSLHandshake.kickstart(SSLHandshake.java:510)&#xd;
+	at sun.security.ssl.ClientHandshakeContext.kickstart(ClientHandshakeContext.java:112)&#xd;
+	at sun.security.ssl.TransportContext.kickstart(TransportContext.java:238)&#xd;
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:433)&#xd;
+	... 17 more&#xd;
+</Stack>
+        </Error>
+        <Stack>com.yantra.yfc.util.YFCException&#xd;
+	at com.yantra.interop.client.InteropHttpsClient.invoke(InteropHttpsClient.java:151)&#xd;
+	at com.yantra.interop.client.InteropHttpsClient.invoke(InteropHttpsClient.java:104)&#xd;
+	at com.yantra.interop.client.ClientAPICallHandler.invoke(ClientAPICallHandler.java:77)&#xd;
+	at com.sun.proxy.$Proxy0.invoke(Unknown Source)&#xd;
+	at com.main.ModifyCacheTrigger.modifyCacheTrigger(ModifyCacheTrigger.java:93)&#xd;
+	at com.main.ModifyCacheTrigger.triggerModifyCache(ModifyCacheTrigger.java:54)&#xd;
+	at com.main.ModifyCacheTrigger.main(ModifyCacheTrigger.java:44)&#xd;
+</Stack>
+    </Error>
+</Errors>
+
+Input XML: <CachedGroups><CachedGroup Action="CLEAR" Name="Database"/><YFSEnvironment AdapterName="DefaultAdapter" DataAccessFilter="N" LocaleCode="" ProgId="modifycache" ResourceId="" RollbackOnly="N" SystemName="DefaultSystem" UserId="admin" Version=""/></CachedGroups>
+

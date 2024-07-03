@@ -1,0 +1,338 @@
+﻿xml.error_code.keyword: Descending,Count,xml.error_description.keyword: Descending,Count
+java.lang.NullPointerException,1162443,Error_description_not_available,1162443
+YFC0101,164273,Lock timeout detected by the database.,164273
+YFS10003,159978,YFS:Invalid Order,159978
+Request Data Error,4,[L9] Item type is not defined correctly for line 9,4
+Request Data Error,4,[L9] Item type doesn't qualify for $0 pricing for line 9,4
+Request Data Error,6,[L9] Charge Spec is missing for line 9,6
+Request Data Error,4,[L9] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:4 for line 9,4
+Request Data Error,4,[L9] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 9,4
+Request Data Error,14,[L9] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 9,14
+Request Data Error,4,"[L8] Item type is not defined correctly for line 8, [L7] Item type is not defined correctly for line 7",4
+Request Data Error,8,[L8] Item type doesn't qualify for $0 pricing for line 8,8
+Request Data Error,6,[L8] Charge Spec is missing for line 8,6
+Request Data Error,10,[L8] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 8,10
+Request Data Error,16,[L8] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 8,16
+Request Data Error,12,[L800] The total of (invoiced + cancelled + to invoice) quantity cannot exceed the quoted quantity for line 800,12
+Request Data Error,12,[L7] Item type is not defined correctly for line 7,12
+Request Data Error,6,[L7] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:3 for line 7,6
+Request Data Error,6,[L7] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 7,6
+Request Data Error,6,"[L7] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 7, [L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 1",6
+Request Data Error,14,[L7] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 7,14
+Request Data Error,4,[L71] Item type is not defined correctly for line 71,4
+Request Data Error,8,[L6] Item type is not defined correctly for line 6,8
+Request Data Error,4,"[L6] Item type doesn't qualify for $0 pricing for line 6, [L4] Item type doesn't qualify for $0 pricing for line 4, [L1] Item type doesn't qualify for $0 pricing for line 1",4
+Request Data Error,6,[L6] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:6 for line 6,6
+Request Data Error,12,[L6] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:4 for line 6,12
+Request Data Error,8,"[L6] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 6, [L4] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 4",8
+Request Data Error,6,"[L6] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 6, [L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 2",6
+Request Data Error,46,[L6] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 6,46
+Request Data Error,4,[L5] Item type is not defined correctly for line 5,4
+Request Data Error,12,[L5] Charge Spec is missing for line 5,12
+Request Data Error,14,[L5] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 5,14
+Request Data Error,58,[L5] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 5,58
+Request Data Error,28,[L4] Item type is not defined correctly for line 4,28
+Request Data Error,12,"[L4] Item type doesn't qualify for $0 pricing for line 4, [L3] Item type doesn't qualify for $0 pricing for line 3, [L1] Item type doesn't qualify for $0 pricing for line 1, [L2] Item type doesn't qualify for $0 pricing for line 2",12
+Request Data Error,60,"[L4] Item type doesn't qualify for $0 pricing for line 4, [L1] Item type doesn't qualify for $0 pricing for line 1, [L3] Item type doesn't qualify for $0 pricing for line 3, [L2] Item type doesn't qualify for $0 pricing for line 2",60
+Request Data Error,16,[L4] Item type doesn't qualify for $0 pricing for line 4,16
+Request Data Error,36,[L4] Charge Spec is missing for line 4,36
+Request Data Error,6,[L4] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:5 for line 4,6
+Request Data Error,56,[L4] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 4,56
+Request Data Error,10,"[L4] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 4, [L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 1",10
+Request Data Error,90,[L4] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 4,90
+Request Data Error,40,[L3] Item type is not defined correctly for line 3,40
+Request Data Error,12,"[L3] Item type doesn't qualify for $0 pricing for line 3, [L2] Item type doesn't qualify for $0 pricing for line 2, [L4] Item type doesn't qualify for $0 pricing for line 4, [L1] Item type doesn't qualify for $0 pricing for line 1",12
+Request Data Error,80,"[L3] Item type doesn't qualify for $0 pricing for line 3, [L2] Item type doesn't qualify for $0 pricing for line 2, [L1] Item type doesn't qualify for $0 pricing for line 1",80
+Request Data Error,20,"[L3] Item type doesn't qualify for $0 pricing for line 3, [L1] Item type doesn't qualify for $0 pricing for line 1, [L4] Item type doesn't qualify for $0 pricing for line 4, [L2] Item type doesn't qualify for $0 pricing for line 2",20
+Request Data Error,20,"[L3] Item type doesn't qualify for $0 pricing for line 3, [L1] Item type doesn't qualify for $0 pricing for line 1, [L2] Item type doesn't qualify for $0 pricing for line 2, [L4] Item type doesn't qualify for $0 pricing for line 4",20
+Request Data Error,16,"[L3] Item type doesn't qualify for $0 pricing for line 3, [L1] Item type doesn't qualify for $0 pricing for line 1, [L2] Item type doesn't qualify for $0 pricing for line 2",16
+Request Data Error,12,[L3] Item type doesn't qualify for $0 pricing for line 3,12
+Request Data Error,6,"[L3] Charge Spec is missing for line 3, [L2] Charge Spec is missing for line 2, [L1] Charge Spec is missing for line 1",6
+Request Data Error,10,[L3] Charge Spec is missing for line 3,10
+Request Data Error,6,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:6 for line 3,6
+Request Data Error,12,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:4 for line 3,12
+Request Data Error,6,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:3 for line 3,6
+Request Data Error,54,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 3,54
+Request Data Error,6,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:10 for line 3,6
+Request Data Error,4,"[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 3, [L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 2",4
+Request Data Error,136,[L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 3,136
+Request Data Error,6,[L35] Charge Spec is missing for line 35,6
+Request Data Error,4,[L33] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 33,4
+Request Data Error,4,[L32] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:12 for line 32,4
+Request Data Error,12,[L300] The total of (invoiced + cancelled + to invoice) quantity cannot exceed the quoted quantity for line 300,12
+Request Data Error,6,[L2] The total of (invoiced + cancelled + to split) quantity cannot exceed the quoted quantity for line 2,6
+Request Data Error,4,[L2] The total of (invoiced + cancelled + to invoice) quantity cannot exceed the quoted quantity for line 2,4
+Request Data Error,48,[L2] Item type is not defined correctly for line 2,48
+Request Data Error,4,"[L2] Item type doesn't qualify for $0 pricing for line 2, [L5] Item type doesn't qualify for $0 pricing for line 5",4
+Request Data Error,48,"[L2] Item type doesn't qualify for $0 pricing for line 2, [L3] Item type doesn't qualify for $0 pricing for line 3, [L1] Item type doesn't qualify for $0 pricing for line 1",48
+Request Data Error,4,"[L2] Item type doesn't qualify for $0 pricing for line 2, [L3] Item type doesn't qualify for $0 pricing for line 3",4
+Request Data Error,12,"[L2] Item type doesn't qualify for $0 pricing for line 2, [L1] Item type doesn't qualify for $0 pricing for line 1, [L3] Item type doesn't qualify for $0 pricing for line 3",12
+Request Data Error,124,"[L2] Item type doesn't qualify for $0 pricing for line 2, [L1] Item type doesn't qualify for $0 pricing for line 1",124
+Request Data Error,68,[L2] Item type doesn't qualify for $0 pricing for line 2,68
+Request Data Error,37672,"[L2] Charge Spec is missing for line 2, [L3] Charge Spec is missing for line 3",37672
+Request Data Error,6,"[L2] Charge Spec is missing for line 2, [L1] Charge Spec is missing for line 1",6
+Request Data Error,790,[L2] Charge Spec is missing for line 2,790
+Request Data Error,6,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:4 for line 2,6
+Request Data Error,4,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:3 for line 2,4
+Request Data Error,6,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:28 for line 2,6
+Request Data Error,64,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 2,64
+Request Data Error,4,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:18 for line 2,4
+Request Data Error,100,[L2] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 2,100
+Request Data Error,4,[L27] Item type is not defined correctly for line 27,4
+Request Data Error,6,[L27] Charge Spec is missing for line 27,6
+Request Data Error,6,[L25] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 25,6
+Request Data Error,6,[L24] Charge Spec is missing for line 24,6
+Request Data Error,8,[L22] Item type doesn't qualify for $0 pricing for line 22,8
+Request Data Error,24,[L200] The total of (invoiced + cancelled + to invoice) quantity cannot exceed the quoted quantity for line 200,24
+Request Data Error,96,"[L1] Item type doesn't qualify for $0 pricing for line 1, [L3] Item type doesn't qualify for $0 pricing for line 3, [L2] Item type doesn't qualify for $0 pricing for line 2",96
+Request Data Error,32,"[L1] Item type doesn't qualify for $0 pricing for line 1, [L2] Item type doesn't qualify for $0 pricing for line 2, [L3] Item type doesn't qualify for $0 pricing for line 3",32
+Request Data Error,204,"[L1] Item type doesn't qualify for $0 pricing for line 1, [L2] Item type doesn't qualify for $0 pricing for line 2",204
+Request Data Error,3039,[L1] Item type doesn't qualify for $0 pricing for line 1,3039
+Request Data Error,12,"[L1] Charge Spec is missing for line 1, [L3] Charge Spec is missing for line 3",12
+Request Data Error,12,"[L1] Charge Spec is missing for line 1, [L2] Charge Spec is missing for line 2, [L3] Charge Spec is missing for line 3",12
+Request Data Error,6,"[L1] Charge Spec is missing for line 1, [L2] Charge Spec is missing for line 2",6
+Request Data Error,384,[L1] Charge Spec is missing for line 1,384
+Request Data Error,6,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:9 for line 1,6
+Request Data Error,12,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:8 for line 1,12
+Request Data Error,4,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:7 for line 1,4
+Request Data Error,6,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:6 for line 1,6
+Request Data Error,10,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:5 for line 1,10
+Request Data Error,10,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:4 for line 1,10
+Request Data Error,30,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:3 for line 1,30
+Request Data Error,6,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:28 for line 1,6
+Request Data Error,6,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:20 for line 1,6
+Request Data Error,76,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 1,76
+Request Data Error,4,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:12 for line 1,4
+Request Data Error,6,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:10 for line 1,6
+Request Data Error,6,"[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 1, [L3] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 3",6
+Request Data Error,198,[L1] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 1,198
+Request Data Error,8,[L17] Item type is not defined correctly for line 17,8
+Request Data Error,6,"[L17] Charge Spec is missing for line 17, [L11] Charge Spec is missing for line 11, [L50] Charge Spec is missing for line 50, [L16] Charge Spec is missing for line 16, [L10] Charge Spec is missing for line 10",6
+Request Data Error,6,"[L16] The total of (invoiced + cancelled + to split) quantity cannot exceed the quoted quantity for line 16, [L15] The total of (invoiced + cancelled + to split) quantity cannot exceed the quoted quantity for line 15",6
+Request Data Error,4,[L15] Item type is not defined correctly for line 15,4
+Request Data Error,4,[L15] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 15,4
+Request Data Error,4,[L15] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:13 for line 15,4
+Request Data Error,6,[L15] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 15,6
+Request Data Error,4,[L13] Item type is not defined correctly for line 13,4
+Request Data Error,18,[L13] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 13,18
+Request Data Error,6,[L12] The total of (invoiced + cancelled + to split) quantity cannot exceed the quoted quantity for line 12,6
+Request Data Error,30,[L12] Charge Spec is missing for line 12,30
+Request Data Error,6,[L12] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 12,6
+Request Data Error,12,[L12] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 12,12
+Request Data Error,6,[L11] The total of (invoiced + cancelled + to split) quantity cannot exceed the quoted quantity for line 11,6
+Request Data Error,4,[L11] Item type is not defined correctly for line 11,4
+Request Data Error,12,[L11] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:2 for line 11,12
+Request Data Error,20,[L10] Cancelled quantity is a cumulative value and must be greater than or equal to the last cancelled quantity:1 for line 10,20
+Request Data Error,8,"Promotion specification is required, [L1] Charge Spec is missing for line 1",8
+Request Data Error,6,"Promotion specification is required, [L12] Charge Spec is missing for line 12",6
+Request Data Error,516,Error_description_not_available,516
+Request Data Error,23298,Billing address zip code can not be 0's.,23298
+YCP0053,39700,User Exit Failed,39700
+YFS10131,29133,YFS: Not Enough Quantity,29133
+YDM00068,13991,Closed shipment cannot be modified.,13991
+YFC0003,21,Error_description_not_available,21
+YFC0003,12397,Database Error.,12397
+YFC0003,7, ,7
+YFC0001,12287,Record already exists in the database.,12287
+YFC0001,6,Error_description_not_available,6
+YCM90_001,8726,"At least one component should match its bundle item for attributes: IsDeliveryAllowed, IsShippingAllowed, and IsPickupAllowed.",8726
+YCP0051,8448,Record Already Exists,8448
+YCP0051,9,Error_description_not_available,9
+YFC0009,7363,Update failed. The record to be updated could either not be found or it was already deleted or updated by another transaction.,7363
+YFC0009,22,Error_description_not_available,22
+java.lang.NumberFormatException,7017,Error_description_not_available,7017
+java.lang.NumberFormatException,1,Error description not available,1
+YFS10137,4688,YFS: Order cannot be modified in current status,4688
+YFS10137,16,Error_description_not_available,16
+VAS00014,4456,Work Order modification rules do not permit modification of Work Order in its current status.,4456
+YFS10001,4280,YFS:No Record Found,4280
+ORA-28,22,ORA-00028: your session has been killed&amp;#xa;,22
+ORA-28,4,ORA-00028: your session has been killed&#xa;ORA-00028: your session has been killed&#xa;,4
+ORA-28,3699,ORA-00028: your session has been killed&#xa;,3699
+ORA-28,2,Error_description_not_available,2
+VAS00066,4,Error_description_not_available,4
+VAS00066,3692,Appointment can not be taken or changed.,3692
+java.lang.ArithmeticException,2941,Error_description_not_available,2941
+YFS10415,2358,YFS: Key Fields cannot be modified.,2358
+ORA-17410,2029,No more data to read from socket,2029
+ORA-17410,2,Error_description_not_available,2
+ORA-17410,2, ,2
+ExtnCancelAppt,1418,Order cannot be cancelled as work order is completed,1418
+ExtnCancelAppt,540,Error_description_not_available,540
+OMP11037,36,Transaction {TransactionId} is prevented when order is on hold type {HoldType}.,36
+OMP11037,4,Transaction SCHEDULE.0001 is prevented when order is on hold type THRESHOLD_REVIEW.,4
+OMP11037,8,Transaction SCHEDULE.0001 is prevented when order is on hold type SCHEDULE_CHECK.,8
+OMP11037,16,Transaction SCHEDULE.0001 is prevented when order is on hold type REVIEW_FRAUD.,16
+OMP11037,9,Transaction SCHEDULE.0001 is prevented when order is on hold type PENDING_FRAUD.,9
+OMP11037,1504,Transaction SCHEDULE.0001 is prevented when order is on hold type FAILED_AUTH.,1504
+OMP11037,4,Error_description_not_available,4
+WSI_FORCE_WO_DELIVERY_ERROR_0002,1522,Exception occurred while marking WO completed,1522
+OMP10079,1426,Quantity greater than the allowed over shipment percentage limit,1426
+OMP10079,4,Exception while confirming the shipment qty greater than the orderline qty,4
+OMP10079,14,Error_description_not_available,14
+YFC0002,1436,Record does not exist in the database.,1436
+java.text.ParseException,1313,Error_description_not_available,1313
+YFS10290,1228,YFS: Order cannot be processed,1228
+17410,975,No more data to read from socket,975
+17410,19,Error_description_not_available,19
+10,4,java.lang.IllegalArgumentException: Unmatched braces in the pattern.,4
+10,14,Error_description_not_available,14
+10,6,Error occured in rule: &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xa;&lt;ManageXml Action=&quot;Remove&quot; Xpath=&quot;/Order/OrderList&quot;/>&#xa;,6
+YFC0004,765,Invalid Date Format,765
+YFC0004,12,Error_description_not_available,12
+EXTN_DS0013,765,Neither CarrierProNo nor BolNo is present in PO invoice message,765
+OMP11036,376,Modification {ModificationType} is prevented when order is on hold type {HoldType}.,376
+OMP11036,5,Modification TAX is prevented when order is on hold type REVIEW_FRAUD.,5
+OMP11036,3,Modification TAX is prevented when order is on hold type REDEMPTION_FAILURE.,3
+OMP11036,30,Modification PAYMENT_METHOD is prevented when order is on hold type REVIEW_FRAUD.,30
+OMP11036,275,Modification HOLD_TYPE is prevented when order is on hold type REDEMPTION_FAILURE.,275
+OMP11036,7,Modification CHANGE_ORDER_DATE is prevented when order is on hold type REDEMPTION_FAILURE.,7
+YDM00005,596,Status is not a valid pipeline pickup status for the transaction,596
+Service not configured for EOF message,594,"Service not configured for EOF message, service [MKPConsumeVendorInvFeed] and sub-service [MKPConsumeVendorInvFeed_0]",594
+VAS00049,586,Mismatch on the ship nodes of work order and the lines added to the work order.,586
+java.io.IOException,522,Error_description_not_available,522
+WSI_MOT_DATES_MONITOR_ERROR_0002,513,Mandatory ShipNode is Empty or Null on OrderLine,513
+WSI_TRIGGER_APPT_CONF_REMNDR_EMAIL_2,226,Mandatory Email ID is missing at Work Order Level,226
+WSI_TRIGGER_APPT_CONF_REMNDR_EMAIL_2,226,Error_description_not_available,226
+YFC0100,435,Deadlock detected by the database.,435
+YFS10364,409,Mandatory Parameters for the Operation are missing.,409
+java.lang.StringIndexOutOfBoundsException,404,Error_description_not_available,404
+org.w3c.dom.DOMException,400,Error_description_not_available,400
+java.lang.ArrayIndexOutOfBoundsException: -1,279,-1,279
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11839845,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11839844,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11833392,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11833391,8
+IDS0026,16,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11827947,16
+IDS0026,16,Container Details aren't present in Sterling for Tracking No/DCartonID : DI11827940,16
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00008015421054504166,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00008015421054378705,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00008015421054321404,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00008015421053854927,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136461,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136454,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136447,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136430,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136423,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136416,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136409,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136058,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136041,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136034,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000136027,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135952,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135945,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135884,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135877,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135839,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135822,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135815,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135808,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135792,8
+IDS0026,8,Container Details aren't present in Sterling for Tracking No/DCartonID : 00000044760000135785,8
+java.lang.IndexOutOfBoundsException,242,Error_description_not_available,242
+Work order does not exist,240, ,240
+Unknown Error,238,Error description not available,238
+WSIDROPSHIP2_00010,216,Orderline is not in valid status for force shipping,216
+ContainerNo not provided in FinalMileDeliveryUpdate Message,184,Error_description_not_available,184
+OMP11049,174,Cannot change ship node on service line already associated with a work order.,174
+OMP80_0028,162,Transaction {TransactionId} is prevented when all order lines are on hold.,162
+WSI_MOT_DATES_MONITOR_ERROR_0001,162,Mandatory CAC is Empty or Null on OrderLine,162
+java.rmi.ConnectIOException,158,Error_description_not_available,158
+java.lang.NullPointerException: PrimarySupplier (Item/PrimaryInformation/@PrimarySupplier)is Mandatory to get Organization Hierarchy Details,138,PrimarySupplier (Item/PrimaryInformation/@PrimarySupplier)is Mandatory to get Organization Hierarchy Details,138
+IDS0034,42,Ship Method is not set for the SCAC and CarrierServiceCode of the International DS Purchase Order in Common Code DSPO_INT_SHIP_METHOD,42
+IDS0034,63,Error_description_not_available,63
+YFS10492,77,Cannot cancel quantity below invoiced quantity,77
+Orderlinedetail element is null,3,WorkOrderNo:: 9438956 WSIProdOrderLineKey:: 20200920124917652793996 OrderNo:: 302792033136,3
+Orderlinedetail element is null,3,WorkOrderNo:: 20184862 WSIProdOrderLineKey:: 202401301409412041736907 OrderNo:: 340300554144,3
+Orderlinedetail element is null,3,WorkOrderNo:: 20003696 WSIProdOrderLineKey:: 20231231141741424192422 OrderNo:: 340020354114,3
+Orderlinedetail element is null,3,WorkOrderNo:: 20003564 WSIProdOrderLineKey:: 202401210814301546516830 OrderNo:: 340212682090,3
+Orderlinedetail element is null,3,WorkOrderNo:: 19465678 WSIProdOrderLineKey:: 202311241107597549814249 OrderNo:: 333282049076,3
+Orderlinedetail element is null,3,WorkOrderNo:: 15507795 WSIProdOrderLineKey:: 202210221307421882840034 OrderNo:: 322960761136,3
+Orderlinedetail element is null,3,WorkOrderNo:: 15358050 WSIProdOrderLineKey:: 202207220847566134812563 OrderNo:: 321992455014,3
+Orderlinedetail element is null,3,WorkOrderNo:: 15358031 WSIProdOrderLineKey:: 202207060911265170985017 OrderNo:: 321843599374,3
+Orderlinedetail element is null,3,WorkOrderNo:: 15357973 WSIProdOrderLineKey:: 202205291106533096799803 OrderNo:: 321460622129,3
+Orderlinedetail element is null,3,WorkOrderNo:: 14509687 WSIProdOrderLineKey:: 202206241259444500315406 OrderNo:: 321652677410,3
+Orderlinedetail element is null,3,WorkOrderNo:: 14137085 WSIProdOrderLineKey:: 202202201340347563042226 OrderNo:: 320562573677,3
+Orderlinedetail element is null,3,WorkOrderNo:: 13691675 WSIProdOrderLineKey:: 202205041120231761410225 OrderNo:: 321240791426,3
+Orderlinedetail element is null,3,WorkOrderNo:: 13491181 WSIProdOrderLineKey:: 20211117113309623993286 OrderNo:: 313210104631,3
+Orderlinedetail element is null,3,WorkOrderNo:: 13434752 WSIProdOrderLineKey:: 202203080940418493077643 OrderNo:: 320672517861,3
+Orderlinedetail element is null,28,Error_description_not_available,28
+YFS10320,50,YFS: Invalid Payment Information,50
+YFS10320,4,Error_description_not_available,4
+WSIDROPSHIP2_00009,52,Total forceship quantity is greater than unshipped quantity of the PO line,52
+FRDHLDRES_001,48,DATA_ERROR response from Accertify for the input XML passed.,48
+WorkOrder is not in Valid Status for Processing PickUp Exception,48,Error_description_not_available,48
+YDM00200,42,Order release is not in a pickable status for shipment.,42
+WSIINVOICED_00011,38,One or more lines are already Invoiced,38
+CustomError001,36,Payment Auth not found or expired,36
+Exception occured while acquiring lock for Promise Date table,36,Error_description_not_available,36
+YDM00129,34,Shipment already confirmed.,34
+YFS10419,29,YFS: Charge cannot be negative,29
+java.lang.RuntimeException,26,Error_description_not_available,26
+VAS00045,24,Appointment end date cannot be before appointment start date.,24
+WSIDROPSHIP2_00040,24,UPS Tracking No should start with 1Z and length should be 18 characters,24
+YFS10048,23,YFS:Invalid Node,23
+YCM80_013,20,A logical kit or a dynamic physical kit cannot contain a model item.,20
+WSI_ENHANCED_ROUTING_ERROR_0003,9,Exception occurred while determining FinalMileHub,9
+WSI_ENHANCED_ROUTING_ERROR_0003,6,Error_description_not_available,6
+YFS10421,15,Order is not Draft Order,15
+YFS10428,15,Invalid input to change status,15
+ORDACK_101,12,ShipAdviceNo cannot be null or empty,12
+java.sql.SQLRecoverableException,12,Error_description_not_available,12
+WSI_PAYMENT_PROCESSING_0032,10,Refund Check needs to be validated by CSR  :: ConfirmRefundDistributionUE,10
+YCM0033,10,Item Not Found,10
+YDM00025,10,Shipment modification rules do not permit modification of shipment in its current status.,10
+YFS10407,9,YFS: Invalid ETA Date.,9
+java.rmi.UnmarshalException,9,Error_description_not_available,9
+ORA-904,8,ORA-00904: &quot;ORIGINAL_APPEASEMENT_KEY&quot;: invalid identifier&#xa;,8
+YFS10006,8,YFS:Invalid Person Info,8
+ROUTEPLANNERERROR,7,Appointment could not be taken / updated. Please contact system admin,7
+YCM0002,7,Mandatory Parameters for the Operation are missing,7
+17009,6,Closed Statement,6
+ERRORCODE_ORDACK_101,6,ERRORDESC_ORDACK_101,6
+YDM00116,6,Both Ship node and Receiving node cannot be blank,6
+YDM00085,5,ShipNode does not exist in the system.,5
+YFS10273,5,YFS: No Kit Lines Found.,5
+java.sql.SQLException,5,Error_description_not_available,5
+ContainerNo missing in PickUp Scan Event,4,Error_description_not_available,4
+Received FinalMileDelivery Message should not have Delivery Quantity as '0',4,Error_description_not_available,4
+YDB92_001,4,The data bound to the column is invalid in this context.,4
+YFS10210,4,YFS: No Bill To Person Info,4
+Blank Order No,3,Order No is Blank,3
+Input XMLData for ConditionFlowComponent is Null,3,Error_description_not_available,3
+YFS10395,3,YFS:Invalid organization code,3
+java.lang.Exception,2,Error_description_not_available,2
+Request Data Error,12080,"[L2] Charge Spec is missing for line 2, [L3] Charge Spec is missing for line 3",12080
+Request Data Error,8092,Billing address zip code can not be 0's.,8092
+Request Data Error,240,[L2] Charge Spec is missing for line 2,240
+Request Data Error,60,[L1] Item type doesn't qualify for $0 pricing for line 1,60
+YCP0053,10272,User Exit Failed,10272
+YFS10137,8753,YFS: Order cannot be modified in current status,8753
+YFS10137,11,Error_description_not_available,11
+VAS00066,5252,Appointment can not be taken or changed.,5252
+VAS00051,4434,Multiple appointments that are either open or complete are not allowed for work order with multi appointment flag as No.,4434
+java.lang.NullPointerException,3800,Error_description_not_available,3800
+java.lang.NullPointerException,29,Error description not available,29
+OMP11037,2680,Transaction SCHEDULE.0001 is prevented when order is on hold type FAILED_AUTH.,2680
+OMP11037,24,Transaction SCHEDULE.0001 is prevented when order is on hold type REDEMPTION_FAILURE.,24
+OMP11037,20,Transaction SCHEDULE.0001 is prevented when order is on hold type SCHEDULE_CHECK.,20
+OMP11037,6,Transaction PAYMENT_COLLECTION is prevented when order is on hold type FAILED_AUTH.,6
+OMP11037,4,Transaction PAYMENT_COLLECTION is prevented when order is on hold type AVS_ORDER_HOLD.,4
+OMP11037,2,Transaction PAYMENT_COLLECTION is prevented when order is on hold type FAIL_CHARGE_CC_B2B.,2
+OMP11037,2,Transaction PAYMENT_COLLECTION is prevented when order is on hold type FAIL_CHARGE_PS_NOB2B.,2
+OMP11037,2,Transaction PAYMENT_COLLECTION is prevented when order is on hold type REDEMPTION_FAILURE.,2
+OMP11037,2,Transaction PAYMENT_EXECUTION is prevented when order is on hold type SHAFTER_HOLD.,2
+YFC0009,2014,Update failed. The record to be updated could either not be found or it was already deleted or updated by another transaction.,2014
+YFC0009,94,Error_description_not_available,94
+MEMBERSHIP_FULFILL_0005,842,Error_description_not_available,842
+MEMBERSHIP_FULFILL_0005,842,Exception occurred while Fulfilling Membership,842
+YFC0002,1610,Record does not exist in the database.,1610
+YFC0003,917,Database Error.,917
+ORA-28,570,ORA-00028: your session has been killed&#xa;,570
+ORA-28,2,Error_description_not_available,2
+ORA-28,1,ORA-00028: your session has been killed&amp;#xa;,1
+YFS10290,420,YFS: Order cannot be processed,420
+WSI_RETURN_ORDER_0018,357,"Exception in setSODetailsAndCommonCodeList Method, Mandatory attribute 'ReturnReason' not found in Input XML",357
+ORA-17410,323,No more data to read from socket,323
+ORA-17410,4,Error_description_not_available,4
