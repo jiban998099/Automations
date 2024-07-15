@@ -1,5 +1,4 @@
 package com.dbr;
-
 import com.db.DBConnection;
 import java.sql.Connection;
 import java.sql.ResultSet;

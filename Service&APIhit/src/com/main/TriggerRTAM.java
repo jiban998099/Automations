@@ -43,10 +43,10 @@ public class TriggerRTAM {
     private static int successCount = 0; // Counter to keep track of successful RTAM triggers
     private static int failureCount = 0; // Counter to keep track of failed RTAM triggers
     private static final String link = "https://supplychain-elk.wsgc.com/goto/25172611ac1a19fd5348d9b3a9ccceea?security_tenant=global";
-    public static final String modifyProgId = "INC003178566";
+    public static final String modifyProgId = "SERREQ0757191";
     public static final String userId = "jpradhan";
-    public static final String organizationCode = "WS";
-    public static final String marketCode = "USA";
+    public static final String organizationCode = "PK";
+    public static final String marketCode = "CAN";
 
     public static void main(String[] args) {
         // Configure Log4j
@@ -56,7 +56,7 @@ public class TriggerRTAM {
 
         try {
             loadProperties();
-            List<String> itemIds = readItemIdsFromFile("C:\\Users\\jpradhan\\OneDrive - Williams-Sonoma Inc\\Documents\\workspace\\Service&APIhit\\src\\RTAM_input.txt");
+            List<String> itemIds = readItemIdsFromFile("C:\\Users\\jpradhan\\OneDrive - Williams-Sonoma Inc\\Documents\\RTAM_input.txt");
             if (itemIds.isEmpty()) {
                 logger.warn("No item IDs found in the file.");
             } else {
